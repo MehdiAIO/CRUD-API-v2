@@ -1,20 +1,50 @@
 [
   {
     "id": 1,
-    "name": "mehdi",
-    "age": "20",
-    "gender": "male"
+    "idEquipe": 3896,
+    "equipeNom":"Real Madrid",
+    "nom": "sergio ramos",
+    "numero": "4",
+    "poste": "CB"
   },
   {
     "id": 2,
-    "name": "anass",
-    "age": "20",
-    "gender": "male"
+    "idEquipe": 3896,
+    "equipeNom":"Real Madrid",
+    "nom": "cristiano ronaldo",
+    "numero": "7",
+    "poste": "RWF"
   },
   {
     "id": 3,
-    "name": "amine",
-    "age": "20",
-    "gender": "male"
+    "idEquipe": 3966,
+    "equipeNom":"Barcalona",
+    "nom": "lionel messi",
+    "numero": "10",
+    "poste": "AMF"
+  },
+  {
+    "id": 4,
+    "idEquipe": 3966,
+    "equipeNom":"Barcalona",
+    "nom": "gerard piqué",
+    "numero": "3",
+    "poste": "CB"
+  },
+  {
+    "id": 5,
+    "idEquipe": 4120,
+    "equipeNom":"Liverpool",
+    "nom": "alexander arnold",
+    "numero": "66",
+    "poste": "RB"
+  },
+  {
+    "id": 6,
+    "idEquipe": 4120,
+    "equipeNom":"Liverpool",
+    "nom": "mohammed salah",
+    "numero": "11",
+    "poste": "RWF"
   }
 ]
